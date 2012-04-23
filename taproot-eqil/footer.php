@@ -7,13 +7,12 @@
 
 
         <!-- required for sticky footer -->
-        <div class="clear"></div>
+        <div class="push"></div>
     </div>
     <!-- end .container_24 wrapper -->
 
-    <div class="footer">
+    <div class="container_24 footer">
         <?php wp_footer(); ?>
-        
 
         <div class="grid_24 alpha omega" id="footer_top">
             <div class="grid_4 alpha prefix_5">

@@ -54,6 +54,10 @@
 	border-left: 0;
 }
 
+#nav ul.menu li ul li a{
+	border-left: 0;
+}
+
 
 /* Color change when hovered over */
 

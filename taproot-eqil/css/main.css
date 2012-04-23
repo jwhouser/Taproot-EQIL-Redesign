@@ -1,4 +1,4 @@
-g/*
+/*
 main.css
 
 1. default styles
@@ -78,12 +78,12 @@ a:hover {
     position: absolute;
     
     bottom: 8px;
-    left: 12px;
+    left: 3px;
 }
 
 /* 2. #header styles */
 body > div.container_24.wrapper {
-    margin-top: 111px;
+    margin-top: 150px;
 }
 
 #header_wrapper {
@@ -155,8 +155,7 @@ body > div.container_24.wrapper {
 /* 3. #body styles */
 
 #carousel {
-    margin-top: -15px;
-/*    height: 325px;*/
+    height: 325px;
 }
 
 #divider_bar {
@@ -167,7 +166,7 @@ body > div.container_24.wrapper {
 
 #body .content {
     background-color: #fff;
-    padding: 15px 5px 30px;
+    padding: 15px 20px 30px;
 }
 
 #body .content .title {
@@ -272,20 +271,5 @@ div.rail_box {
 
 div.rail_box.outer {
     background-color: #f7f6f6;
-}
-
-#subpages .post {
-
-float: left;
-padding: 5px 0 0;
-margin-bottom: 10px;
-}
-
-#subpages .post .post_content {
-    border: 1px solid #efefef;
-    padding: 10px;
-}
-#subpages h2 {
-    font-size: 15px;
 }
 
